@@ -23,4 +23,4 @@ Some things about me:
 - 👯 I’m looking to collaborate on open source python projects.
 - 🤔 I’m looking for help with game development projects.
 - 📫 How to reach me: you can contact me on email, linkedin or telegram.
-- ⚡ Fun fact: I love cats.
+- ⚡ Fun fact: I love cats, sometimes I make videos about games and lives at Twitch.tv.
