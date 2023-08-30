@@ -1,6 +1,6 @@
 <h3 align='center'> Greetings 👋 </h3>
 
-<p align='center'>My name is João and I'm studying to become a FullStack Python Programmer.</p>
+<p align='center'>My name is João and I'm studying to become a FullStack Python Programmer and game development stuff.</p>
 
 <p align='center'>This is where I post personal projects and studies. If necessary, contact me using my social networks.</p>
 
