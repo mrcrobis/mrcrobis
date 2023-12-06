@@ -19,8 +19,8 @@
 Some things about me:
 
 - 🔭 I’m currently working on a nutrition app.
-- 🌱 I’m currently learning Flask and Flutter
+- 🌱 I’m currently learning Flask and Flutter.
 - 👯 I’m looking to collaborate on open source python projects.
 - 🤔 I’m looking for help with game development projects.
-- 📫 How to reach me: you can contact me on email, linkedin or telegram.
+- 📫 How to reach me: you can contact me on email or telegram.
 - ⚡ Fun fact: I love cats, sometimes I make videos about games and lives at Twitch.tv.
