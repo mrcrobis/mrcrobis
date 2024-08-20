@@ -18,8 +18,8 @@
 
 Some things about me:
 
-- 🔭 I’m currently working on a nutrition app.
-- 🌱 I’m currently learning Flask and Flutter.
+- 🔭 I’m currently working on a data projects.
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open source python projects.
 - 🤔 I’m looking for help with game development projects.
 - 📫 How to reach me: you can contact me on email or telegram.
