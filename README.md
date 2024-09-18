@@ -19,8 +19,7 @@
 Some things about me:
 
 - 🔭 I’m currently working on a data projects.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python for data analysis, machine learn and automatization.
 - 👯 I’m looking to collaborate on open source python projects.
-- 🤔 I’m looking for help with personal projects.
 - 📫 How to reach me: you can contact me on email or telegram.
 - ⚡ Fun fact: I love cats, sometimes I make videos about games and lives at Twitch.tv.
